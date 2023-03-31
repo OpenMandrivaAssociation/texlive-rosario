@@ -1,6 +1,6 @@
 Name:		texlive-rosario
 Version:	51688
-Release:	1
+Release:	2
 Summary:	Using the free Rosario fonts with LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rosario
