@@ -3,7 +3,7 @@ Version:	51688
 Release:	2
 Summary:	Using the free Rosario fonts with LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rosario
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rosario
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rosario.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rosario.doc.r%{version}.tar.xz
